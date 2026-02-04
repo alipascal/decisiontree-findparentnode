@@ -1,6 +1,6 @@
 # Identification de la racine d'un arbre de décision
 
-Programme Python identifiant la racine optimale d'un arbre de décision par minimisation de l'entropie.
+Programme Python qui, à partir de n'importe quel fichier contenant un jeu de données pour l'entraînement des arbres de décision, retourne la racine de l'arbre de décision construit selon le principe de minimisation de l'entropie.
 
 ## Fonctionnalités
 
